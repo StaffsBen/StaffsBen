@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Ben</h1>
+<h1 align="center">
+  Hi, I'm Ben
+</h1>
 I'm beginner to the coding scene, mainly focusing on games programming.
+
 - 🌱 I’m currently learning C++, SDL, OpenGL and general coding practises.
 
 ### Languages and tools I have experience with:
